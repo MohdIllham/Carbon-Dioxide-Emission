@@ -3,7 +3,7 @@
 ## Overview
 This notebook performs an exploratory data analysis (EDA) to identify which countries have the highest and lowest carbon emissions. The analysis covers the period from 1995 to 2018. The goal is to understand the historical trends in carbon emissions and examine whether countries can improve their positions over time.
 
-**Code:** [`Stock Price Prediction`](https://github.com/MohdIllham/Carbon-Dioxide-Emission/blob/main/CO2%20EMISSION.ipynb)
+**Code:** [`Carbon-Dioxide-Emission`](https://github.com/MohdIllham/Carbon-Dioxide-Emission/blob/main/CO2%20EMISSION.ipynb)
 
 ## Table of Contents
 - [Overview](#Overview)
